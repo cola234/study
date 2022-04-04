@@ -1,0 +1,7 @@
+﻿D:\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.c
+c:\users\24140\source\repos\project1\project1\game.c(101): error C2065: “row”: 未声明的标识符
+c:\users\24140\source\repos\project1\project1\game.c(101): error C2065: “col”: 未声明的标识符
+c:\users\24140\source\repos\project1\project1\game.c(102): warning C4033: “Judge”必须返回值
+c:\users\24140\source\repos\project1\project1\game.c(108): warning C4028: 形参 2 与声明不同
+c:\users\24140\source\repos\project1\project1\game.c(108): warning C4029: 声明的形参表不同于定义
