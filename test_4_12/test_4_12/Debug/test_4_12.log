@@ -1,4 +1,2 @@
 ﻿  test.c
-c:\users\24140\source\repos\test_4_12\test_4_12\test.c(89): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“char *(__cdecl *)(char *,char *)”
-c:\users\24140\source\repos\test_4_12\test_4_12\test.c(83): warning C4716: “my_strcpy”: 必须返回一个值
   test_4_12.vcxproj -> C:\Users\24140\source\repos\test_4_12\Debug\test_4_12.exe
