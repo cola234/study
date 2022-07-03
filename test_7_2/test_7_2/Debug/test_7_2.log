@@ -1,0 +1,6 @@
+﻿  qsort.c
+d:\项目\test_7_2\test_7_2\qsort.c(103): warning C4013: “qsort”未定义；假设外部返回 int
+  testdemo.c
+  正在生成代码...
+d:\项目\test_7_2\test_7_2\qsort.c(91): warning C4716: “cmp_struct_name”: 必须返回一个值
+  test_7_2.vcxproj -> D:\项目\test_7_2\Debug\test_7_2.exe
