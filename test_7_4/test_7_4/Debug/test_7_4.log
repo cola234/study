@@ -1,2 +1,4 @@
-﻿  testdemo.c
+﻿  zfc.c
+d:\项目\test_7_4\test_7_4\zfc.c(84): warning C4013: “strcat”未定义；假设外部返回 int
+d:\项目\test_7_4\test_7_4\zfc.c(84): warning C4047: “初始化”:“char *”与“int”的间接级别不同
   test_7_4.vcxproj -> D:\项目\test_7_4\Debug\test_7_4.exe

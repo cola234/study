@@ -140,15 +140,15 @@ a[0][0]
 //	return 0;
 //}
 
-int main()//第八题
-{
-	char *c[] = { "ENTER","NEW","POINT","FIRST" };
-	char**cp[] = { c + 3,c + 2,c + 1,c };
-	char***cpp = cp;
-	printf("%s\n", **++cpp);//POINT
-	printf("%s\n", *--*++cpp + 3);//ER
-	printf("%s\n", *cpp[-2] + 3);//ST
-	printf("%s\n", cpp[-1][-1] + 1);//EW
-	return 0;
-}
+//int main()//第八题
+//{
+//	char *c[] = { "ENTER","NEW","POINT","FIRST" };
+//	char**cp[] = { c + 3,c + 2,c + 1,c };
+//	char***cpp = cp;
+//	printf("%s\n", **++cpp);//POINT
+//	printf("%s\n", *--*++cpp + 3);//ER
+//	printf("%s\n", *cpp[-2] + 3);//ST
+//	printf("%s\n", cpp[-1][-1] + 1);//EW
+//	return 0;
+//}
 

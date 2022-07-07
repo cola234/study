@@ -1,0 +1,518 @@
+<XML>
+<HTMLHelpCollection>
+<masterchm value="=p_win32"/>
+<masterlangid value=1033/>
+<samplelocation value=""/>
+<collectionnum value=10001/>
+<refcount value=0/>
+<version value=0/>
+<findmergedchms value=0/>
+<Folders>
+<Folder>
+	<TitleString value="Windows SDK"/>
+	<FolderOrder value=0/>
+	<Folder>
+		<TitleString value="Win32 API"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_win32"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+	<Folder>
+		<TitleString value="User Interface Services"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_msaa"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_msagent"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_shellcc"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_winui"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+	<Folder>
+		<TitleString value="Graphics and Multimedia Services"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_ba"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_icm"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="DirectX"/>
+			<FolderOrder value=0/>
+			<Folder>
+				<TitleString value="=p_DirectX9_c"/>
+				<FolderOrder value=0/>
+				<LangId value=1033/>
+			</Folder>
+		</Folder>
+		<Folder>
+			<TitleString value="Windows Media"/>
+			<FolderOrder value=0/>
+			<Folder>
+				<TitleString value="=p_wmsrvsdk"/>
+				<FolderOrder value=0/>
+				<LangId value=1033/>
+			</Folder>
+			<Folder>
+				<TitleString value="=p_wmencsdk"/>
+				<FolderOrder value=0/>
+				<LangId value=1033/>
+			</Folder>
+			<Folder>
+				<TitleString value="=p_wmpsdk"/>
+				<FolderOrder value=0/>
+				<LangId value=1033/>
+			</Folder>
+			<Folder>
+				<TitleString value="=p_wmformat"/>
+				<FolderOrder value=0/>
+				<LangId value=1033/>
+			</Folder>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_theater"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_opengl"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_stillimg"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_wia"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_gdi"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_multimed"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+	<Folder>
+		<TitleString value="Base Services"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_debug"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_dllproc"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_evtrace"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_fileio"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_hardware"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_indexsrv"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_intl"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_ipc"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_genlib"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_perfmon"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_regapi"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_rsm"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_termserv"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_mscs"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+	<Folder>
+		<TitleString value="COM"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_com"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_automat"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_midl"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+	<Folder>
+		<TitleString value="Scripting Languages"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_vbscrip5"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_jscript5"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_scplt"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_wsh"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_iactivex"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_asp"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_ado210"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_htmlref"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+	<Folder>
+		<TitleString value="Windows 2000 Resource Kit Reference"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_regentry"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_w2kmsgs"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_gp"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_counter"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+	<Folder>
+		<TitleString value="Network Management"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_netmgmt"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_netmon"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_snmp"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_synchro"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_wnet"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+	<Folder>
+		<TitleString value="Network Protocols"/>
+		<FolderOrder value=0/>
+		<Folder>
+			<TitleString value="=p_dlc"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_dhcp"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_dns"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_madcap"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_netbios"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_qos"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_rpc"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_winsock"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+		<Folder>
+			<TitleString value="=p_tcpip"/>
+			<FolderOrder value=0/>
+			<LangId value=1033/>
+		</Folder>
+	</Folder>
+</Folder>
+<Folder>
+	<TitleString value="Windows DDK"/>
+	<FolderOrder value=0/>
+	<Folder>
+		<TitleString value="=p_ddkint"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_GStart"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_kmarch"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_install"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_ddtools"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_acpi"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_battery"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_graphics"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_1284dot4"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_intinput"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_modem"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_multifnc"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_network"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_parallel"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_serial"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_servappl"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_smart"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_still"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_storage"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_stream"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_other"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_buses"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_gloss"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_appendix"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+</Folder>
+<Folder>
+	<TitleString value="Visual C++"/>
+	<FolderOrder value=0/>
+	<Folder>
+		<TitleString value="=p_vccore"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_vclang"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+	<Folder>
+		<TitleString value="=p_vcmfc"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+</Folder>
+<Folder>
+	<TitleString value="Specifications"/>
+	<FolderOrder value=0/>
+	<Folder>
+		<TitleString value="=p_specs"/>
+		<FolderOrder value=0/>
+		<LangId value=1033/>
+	</Folder>
+</Folder>
+</Folders>
+</HTMLHelpCollection>
+</XML>
